@@ -47,6 +47,12 @@ site_author = "Jobin John"
 nav = [
   { "Get started" = "index.md" },
 #  { "Markdown in 5min" = "markdown.md" },
+  {"Repos" = [
+     "repos/chalmers-gitlab.md",
+    #  "about/vision.md",
+    #  "about/team.md"
+  ]}
+
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
